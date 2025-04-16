@@ -16,4 +16,4 @@ Os efeitos ajustados são salvos com o nome da música para fácil recuperação
 
 Baixe todos os arquivos do repositório. Certifique-se de que todos os arquivos estão corretamente ajustados, pois cada um é essencial para o funcionamento da pedaleira. Operação:
 
-Execute o script principal. Escolha entre acessar a pedaleira ou os efeitos salvos a partir da tela inicial. Ajuste, salve e recupere efeitos conforme necessário. Tecnologias Utilizadas Python: Linguagem principal. Bibliotecas de Áudio: Processamento e manipulação de som. Banco de Dados: Gerenciamento de efeitos salvos e recuperação de configurações personalizadas.
+Execute o script principal(pedalNOVO). Escolha entre acessar a pedaleira ou os efeitos salvos a partir da tela inicial. Ajuste, salve e recupere efeitos conforme necessário. Tecnologias Utilizadas Python: Linguagem principal. Bibliotecas de Áudio: Processamento e manipulação de som. Banco de Dados: Gerenciamento de efeitos salvos e recuperação de configurações personalizadas.
